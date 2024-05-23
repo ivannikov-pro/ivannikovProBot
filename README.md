@@ -1,2 +1,2 @@
-# ivannikovprobot
-@ivannikovProBot - Personal telegram bot assistant
+# Personal Telegram business bot assistant
+[@ivannikovProBot](https://t.me/ivannikovProBot).
